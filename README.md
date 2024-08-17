@@ -6,9 +6,9 @@
 ## SplitFlap-Clock Design
 
 <div align="center">
-    <img src='Splitflap-Clock/main.png' alt='Main View' width="500" />
-    <img src='Splitflap-Clock/side.png' alt='Side View' width="500" />
-    <img src='Splitflap-Clock/back.png' alt='Back View' width="500" />
+    <img src='Splitflap-Clock/main.png' alt='Main View' width="400" />
+    <img src='Splitflap-Clock/side.png' alt='Side View' width="400" />
+    <img src='Splitflap-Clock/back.png' alt='Back View' width="400" />
 </div>
 <br>
 
