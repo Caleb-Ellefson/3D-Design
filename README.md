@@ -6,12 +6,16 @@
 ## SplitFlap-Clock Design
 
 <div align="center">
-    <img src='Splitflap-Clock/main.png' alt='Main View' width="300" />
-    <img src='Splitflap-Clock/side.png' alt='Side View' width="300" />
-    <img src='Splitflap-Clock/back.png' alt='Back View' width="300" />
+    <img src='Splitflap-Clock/main.png' alt='Main View' width="500" />
+    <img src='Splitflap-Clock/side.png' alt='Side View' width="500" />
+    <img src='Splitflap-Clock/back.png' alt='Back View' width="500" />
 </div>
 <br>
 
-##Treasue Planet Map
+<h1><a href='https://www.youtube.com/watch?v=yltXUt26NT4&t=2s'>Treasure Planet Map </a></h1>
+
+<div align='center'>
+    <img src='Treasure-Planet/orb.png' alt='Main View' />
+</div>
 
     
